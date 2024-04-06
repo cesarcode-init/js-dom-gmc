@@ -1,0 +1,29 @@
+.green {
+    color: green;
+}
+
+/* .anchor {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+} */
+
+/* body {
+    background: black;
+    color: white;
+} */
+
+#box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid white;
+}
+
+.message {
+    color: red
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+}
